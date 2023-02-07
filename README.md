@@ -2,12 +2,12 @@
 
 I'm currently...
 - 😄 Employed with John Deere as a student software engineer.
-- 🔭 Working on a B2B marketplace to exchange note-taking templates and creating a drip communication software.
+- 🔭 Working on a B2B marketplace to exchange note-taking templates and creating hackathon management tools.
 - 🌱 Learning Next.js, Nest.js, and the wonderful world of Javascript.
 
 General information...
 - 📫 Reach me: armaan@guppy.im or (510) 673-5179
-- ⚡ Fun fact: I'm an Eagle Scout and I can't eat seafood anymore :(
+- ⚡ Fun fact: I'm an Eagle Scout and I can't eat seafood anymore.
 
 <!--
 **armaangupta57/armaangupta57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
