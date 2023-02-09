@@ -3,7 +3,10 @@
 I'm currently...
 - 😄 Employed with John Deere as a student software engineer.
 - 🔭 Working on a B2B marketplace to exchange note-taking templates and creating hackathon management tools.
-- 🌱 Learning Next.js, Nest.js, and the wonderful world of Javascript.
+- 🔐 Developing an account and authentication management tool (like Google Accounts)
+- 📊 Launching a VSCode Extension/Mac app to view your current GitHub contributions for the day
+- 🔗 Creating a free URL shortening service
+- 🌱 Learning React, Next.js, Nest.js, and the wonderful world of Typescript.
 
 General information...
 - 📫 Reach me: armaan@guppy.im or (510) 673-5179
