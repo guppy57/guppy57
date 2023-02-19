@@ -1,4 +1,4 @@
-## Hi there my name is Armaan, but I go by Guppy 👋
+## Hi, I'm Armaan, but I go by Guppy 👋
 
 ### I'm currently...
 
