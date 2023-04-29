@@ -12,7 +12,7 @@
 
 🔗 Creating a free URL shortening service
 
-🌱 Learning React, Next.js, Nest.js, and the wonderful world of Typescript.
+🌱 Learning React, Next.js, Nest.js, Typescript, Golang, and the wonderful world of web development.
 
 ### General information...
 
