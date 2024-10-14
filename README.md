@@ -2,17 +2,21 @@
 
 ### I'm currently...
 
-😄 Employed with John Deere as a student software engineer.
+😄 Employed with John Deere as a software engineer building enterprise customer data.
 
-🔭 Working on a B2B marketplace to exchange note-taking templates and creating hackathon management tools.
+🐶 Building Kreative DocuVet - AI-powered veterinary scribe for busy doctors.
 
-🔐 Developing an account and authentication management tool (like Google Accounts)
+🔭 Working on a B2B marketplace to exchange note-taking templates for Obsidian.
 
-📊 Launching a VSCode Extension/Mac app to view your current GitHub contributions for the day
+🔐 Improving Kreative ID, my in-house account and authentication management tool (like Google Accounts).
 
-🔗 Creating a free URL shortening service
+📊 Launching a VSCode Extension/Mac app to view your current GitHub contributions for the day.
 
-🌱 Learning React, Next.js, Nest.js, Typescript, Golang, and the wonderful world of web development.
+🔗 Created a free URL shortening service.
+
+🎟️ Helping over 450+ students in Iowa through community-led hackathons.
+
+🌱 Learning React, Next.js, Nest.js, SwiftUI, Typescript, Golang, and the wonderful world of web development.
 
 ### General information...
 
