@@ -4,19 +4,22 @@
 
 😄 Employed with John Deere as a software engineer building enterprise customer data.
 
-🐶 Building Kreative DocuVet - AI-powered veterinary scribe for busy doctors.
-
 🔭 Working on a B2B marketplace to exchange note-taking templates for Obsidian.
-
-🔐 Improving Kreative ID, my in-house account and authentication management tool (like Google Accounts).
 
 📊 Launching a VSCode Extension/Mac app to view your current GitHub contributions for the day.
 
-🔗 Created a free URL shortening service.
+🌱 Learning React, Next.js, Nest.js, SwiftUI, Typescript, Golang, and the wonderful world of software.
+
+### Past projects
 
 🎟️ Helping over 450+ students in Iowa through community-led hackathons.
 
-🌱 Learning React, Next.js, Nest.js, SwiftUI, Typescript, Golang, and the wonderful world of web development.
+🐶 Building Kreative DocuVet - AI-powered veterinary scribe for busy doctors.
+
+🔐 Improving Kreative ID, my in-house account and authentication management tool (like Google Accounts).
+
+🔗 Created a free URL shortening service.
+
 
 ### General information...
 
